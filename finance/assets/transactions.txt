@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Terri Income",
+    "amount": 6400,
+    "expense": false,
+    "debt": false,
+    "owed": 0
+  },
+  {
+    "name": "Conns",
+    "amount": 235,
+    "expense": true,
+    "debt": true,
+    "owed": 1200
+  }
+]
